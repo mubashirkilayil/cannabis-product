@@ -1,0 +1,12 @@
+.active {
+  color: #8fb996;
+}
+.fa-solid {
+  color: white;
+}
+.nav-toggle-icon {
+  color: #f5f5f5;
+}
+.nav-toggle-icon--open {
+  color: #8fb996;
+}
